@@ -1,6 +1,6 @@
 # 📺 DialogTv EPG Feeds
 
-> **Last Synced**: `2026-11-05 16:50:37 UTC`  
+> **Last Synced**: `2026-11-05 22:27:06 UTC`  
 > **Date**: `2026-11-05` | **Channels**: `138` | **Programmes**: `21437`
 
 ## ⚡ Quick Links
